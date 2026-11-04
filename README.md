@@ -8,13 +8,11 @@ It answers a practical question:
 
 ## Status
 
-MVP / experimental.
-
 This tool is **not** a SUSE/Rancher supported product and does not replace the Rancher Backup Restore Operator, an etcd backup, or functional application testing.
 
 ## What it does
 
-The MVP supports four workflows:
+It supports four workflows:
 
 1. **Live source → live target comparison**
 2. **Rancher backup `.tar.gz` → live target comparison**
